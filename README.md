@@ -1,9 +1,5 @@
 README
 
-Image Processing App was developed by Agnes Monostori (agnesmonostori) ans Sasha Korotkyi (okorotkyi)
-for Prof. John Muccigrosso (Jmuccigr) with the help of Dr. Emily Hill (emhill),
-during the Drew University Software Engineering class (CS 340) of the Fall 2021 semester.
-
 The application does modifications and improvements on scanned images of text and PDFs.
 
 
@@ -21,8 +17,3 @@ The program also requires poppler to be installed.
 After installation, please search for '\poppler-[version]\Library\bin' on your computer
 and insert the full filepath to line 272 of gui.py.
 
-
-CONTACT
-
-You can contact the collaborators (agnesmonostori and okorotkyi)
-or the client (Jmuccigr) for questions, ideas or suggestions.
